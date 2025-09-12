@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/bekirahmetli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bekirahmetli" height="30" width="40" /></a>
 <a href="https://medium.com/@bekirahmetli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@bekirahmetli" height="30" width="40" /></a>
+<a href="mailto:ahmetlibekir20@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="ahmetlibekir20@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
