@@ -16,7 +16,7 @@
 
 ```yaml
 🛠️ Specialization : Android & backend development with clean architecture and modern design
-🚀 Projects       : Rent-A-Car,Fotica,QrCodeApp,JPA_Library_System
+🚀 Projects       : VeterinaryClinicRESTAPI,LibrarySystemRestAPI,Rent-A-Car,Fotica,QrCodeApp,JPA_Library_System
 🎯 Focus          : Kotlin • Java • Jetpack Compose • Spring Boot • Firebase • RESTful APIs
 🌱 Learning       : Docker · Microservices · CI/CD · System Design · Clean Code
 🎯 Mission        : Build reliable, scalable, and intuitive applications that make life easier
