@@ -53,3 +53,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bekirahmetli&theme=dracula&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20REST%20API%20%7C%20JWT-blue?style=flat-square"/>
+</p>
