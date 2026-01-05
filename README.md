@@ -15,10 +15,10 @@
 ## 📖 About Me
 
 ```yaml
-🛠️ Specialization : Android & backend development with clean architecture and modern design
-🚀 Projects       : VeterinaryClinicRESTAPI,LibrarySystemRestAPI,Rent-A-Car,Fotica,QrCodeApp,JPA_Library_System
-🎯 Focus          : Kotlin • Java • Jetpack Compose • Spring Boot • Firebase • RESTful APIs
-🌱 Learning       : Docker · Microservices · CI/CD · System Design · Clean Code
+🛠️ Specialization : Backend development with Spring Boot, clean architecture, and secure RESTful systems
+🚀 Projects       : EventHubRestAPI, EcommerceRestAPI, VeterinaryClinicRESTAPI, Rent-A-Car, Fotica
+🎯 Focus          : Backend Architecture • Java • Spring Security • Kotlin • Spring Boot • Android
+🌱 Learning       : Spring Cloud • Microservices • CI/CD • System Design • Clean Code
 🎯 Mission        : Build reliable, scalable, and intuitive applications that make life easier
 ```
 ---
@@ -26,7 +26,7 @@
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,spring,git,github,postgresql,postman" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,firebase,spring,git,github,postgresql,postman,mysql,hibernate,docker,kubernetes,rabbitmq" alt="Tech Stack" />
 </p>
 
 ---
@@ -34,11 +34,23 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bekirahmetli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://medium.com/@bekirahmetli"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://github.com/bekirahmetli"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="mailto:ahmetlibekir20@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://bekirahmetli.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+  </a>
+  <a href="https://www.linkedin.com/in/bekirahmetli/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://medium.com/@bekirahmetli">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://github.com/bekirahmetli">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:ahmetlibekir20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
