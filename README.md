@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="Coding GIF" width="600"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=bekirahmetli&color=blue)
 
 <div align="center">
  <a href="https://github.com/bekirahmetli">
