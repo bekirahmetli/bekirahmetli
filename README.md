@@ -50,7 +50,6 @@
   </a>
 </p>
 
-
 ---
 
 ### 💡 Quote of the Day
